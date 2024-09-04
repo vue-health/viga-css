@@ -37,6 +37,12 @@
 #app #zSwuZl .banner-slide-wrapper .w-block-banner {
   background-color: #4A9C2D !important;
 }
+#app #dVSNmu .content-height--small {
+  min-height: 200px;
+}
+#app #dVSNmu .banner-slide-wrapper .w-container {
+  min-height: 300px;
+}
 #app #dVSNmu .banner-slide-wrapper .content-align--top {
   display: flex;
   align-items: center;
@@ -58,10 +64,15 @@
 #app #yndXHq .w-block {
   background-repeat: no-repeat;
   background-color: #ffffff !important;
-  background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegtables_Homepage_Desktop_Left_1716222952.png?width=432&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegtables_Homepage_Desktop_Right_1716222952.png?width=408&optimize=medium);
   background-position: left center, right center;
   background-size: auto 100%;
   min-height: 581px;
+}
+@media screen and (min-width: 1200px) {
+  #app #kefvzb .w-block,
+  #app #yndXHq .w-block {
+    background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegtables_Homepage_Desktop_Left_1716222952.png?width=432&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegtables_Homepage_Desktop_Right_1716222952.png?width=408&optimize=medium);
+  }
 }
 #app #kefvzb .w-block .feature-card[data-v-4d1ffe66]:before,
 #app #yndXHq .w-block .feature-card[data-v-4d1ffe66]:before {
@@ -86,8 +97,12 @@
   text-decoration: none !important;
 }
 #app #yndXHq .w-block {
-  background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Catering_Desktop_Left_1719931403.png?width=400&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Catering_Desktop_Right_1719931408.png?width=400&optimize=medium);
   min-height: 0;
+}
+@media screen and (min-width: 1200px) {
+  #app #yndXHq .w-block {
+    background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Catering_Desktop_Left_1719931403.png?width=400&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Catering_Desktop_Right_1719931408.png?width=400&optimize=medium);
+  }
 }
 #app #yndXHq .w-button {
   background: #FCC331;
@@ -110,11 +125,15 @@
 #app #ytxiPV .w-block {
   background-repeat: no-repeat;
   background-color: #ffffff !important;
-  background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Contact_Desktop_Left_1719933331.png?width=400&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Contact_Desktop_Right_1719933331.png?width=400&optimize=medium);
   background-position: left bottom, right bottom;
   background-size: auto, auto;
   padding-top: 40px;
   padding-bottom: 40px;
+}
+@media screen and (min-width: 1200px) {
+  #app #ytxiPV .w-block {
+    background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Contact_Desktop_Left_1719933331.png?width=400&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Vegetables_Contact_Desktop_Right_1719933331.png?width=400&optimize=medium);
+  }
 }
 #app #YmZQCh .w-background-light {
   background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/menus-background_1719843143.png?width=400&optimize=medium);
@@ -204,10 +223,14 @@
 #fJVvQZ .w-block {
   background-repeat: no-repeat;
   background-color: #ffffff !important;
-  background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Forks_Homepage_Locations_Left_1719514453.png?width=320&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Forks_Homepage_Locations_Right_1719514456.png?width=290&optimize=medium);
   background-position: left center, right center;
   background-size: auto 100%;
   min-height: 581px;
+}
+@media screen and (min-width: 1200px) {
+  #fJVvQZ .w-block {
+    background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Forks_Homepage_Locations_Left_1719514453.png?width=320&optimize=medium), url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/Forks_Homepage_Locations_Right_1719514456.png?width=290&optimize=medium);
+  }
 }
 #fJVvQZ .w-block .w-grid {
   grid-column-gap: 38px !important;
