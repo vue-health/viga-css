@@ -16,6 +16,9 @@
 #app .banner-slide-wrapper .content__center {
   max-width: 791px;
 }
+#app .banner-slide-wrapper .content__center .w-button .text-component {
+  color: #000000 !important;
+}
 #app .banner-slide-wrapper .content__center .text-component {
   color: #F4E9DF !important;
 }
@@ -400,4 +403,21 @@
 }
 #GwziBX .divider {
   display: none;
+}
+
+.custom-code-container {
+  width: 100% !important;
+}
+@media screen and (min-width: 840px) {
+  .custom-code-container {
+    width: 60% !important;
+    margin: 0 auto;
+  }
+}
+
+#mVEcdu .w-block {
+  background: var(--site-background-color) !important;
+  background-image: url(https://images.editor.website/uploads/b/0d3b8f67ca6776e9234c24eeef798d54b7d9d0bd7ae97dcc83cf59ebe094616c/menus-background_1719843143.png?width=400&optimize=medium) !important;
+  background-size: cover !important;
+  background-position: center top !important;
 }
