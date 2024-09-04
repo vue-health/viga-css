@@ -22,8 +22,10 @@
 #app .banner-slide-wrapper .element-group {
   text-align: center;
 }
-#app .banner-slide-wrapper .w-container {
-  min-height: 547px;
+@media screen and (min-width: 641px) {
+  #app .banner-slide-wrapper .w-container {
+    min-height: 547px;
+  }
 }
 #app .banner-slide-wrapper .w-block-banner {
   background-color: #B41C1A !important;
