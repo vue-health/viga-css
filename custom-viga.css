@@ -13,6 +13,13 @@
   object-fit: contain;
 }
 
+.bg-sticky .header__logo {
+  visibility: visible !important;
+}
+.bg-sticky .header__logo img {
+  height: 50px !important;
+}
+
 #app .banner-slide-wrapper .content__center {
   max-width: 791px;
 }
