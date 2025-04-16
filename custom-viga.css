@@ -428,3 +428,7 @@
   background-size: cover !important;
   background-position: center top !important;
 }
+
+#app .order-grid .grid__item > div {
+  height: 100%;
+}
